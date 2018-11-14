@@ -1,0 +1,24 @@
+body{
+    background-color:gray;
+    padding-top: 0px;
+}
+
+.principal{
+    text-align: center;
+}
+
+.tools{
+    padding-top: 0;
+}
+navbar {
+    padding-top: 0;
+}
+
+.table_lista_produto{
+    text-align: left;
+    width: 100%;
+}
+#table-form{
+    font-size: 20px;
+    font-weight: 500;
+}

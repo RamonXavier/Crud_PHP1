@@ -1,0 +1,17 @@
+body{
+    background-color:#02149f;
+    padding-top: 0px;
+}
+
+.principal{
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.tools{
+    padding-top: 0;
+    background-color: black;
+}
+navbar {
+    padding-top: 0;
+}
